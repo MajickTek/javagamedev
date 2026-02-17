@@ -16,4 +16,4 @@ Let's go over the features we will work towards:
   - Think RPG Maker. RPG engines are complex beasts with a ton of features that can be applies to a lot of different types of games. This engine will work for 2D top-down games and platformers, ideally.
 
 ----
-The tutorial and all of its code is MIT-licensed, meaning you are free to completely copy all of it as you go along and use any of it for any purpose, even commercially.
+The tutorial and all of its code is [MIT-licensed](https://github.com/MajickTek/javagamedev/blob/main/LICENSE), meaning you are free to completely copy all of it as you go along and use any of it for any purpose, even commercially.

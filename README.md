@@ -1,6 +1,6 @@
 # Java Game Development
 
-This repository contains the source files for a tutorial series on game development in Java.
+This repository contains the source files for [a tutorial series](https://majicktek.github.io/javagamedev/) on game development in Java.
 
 ## Goals
 The end result will be a 2D game engine that is modular and is designed to have plugin/mod support from the ground up. This means it will be very easily customizable, and each part of the codebase will live by itself and be small/understandable. No monorepos!
